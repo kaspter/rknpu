@@ -3,10 +3,9 @@
 Rockchip NPU blobs Introduce:
 
 
-server: daemon and library inside rknpu
+server: daemon and library inside rk1808
 
-
-client: daemon and library outside rknpu
+app: daemon and library outside rk1808
 
 
 images: prebuild rknpu firmware
